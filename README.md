@@ -12,6 +12,9 @@ To set up the project, create a virtual environment and install the dependencies
 
 **`audiogui2.py`**  
 **Last confirmed working:** 12.13, 13/10/2026
+I have purchased all this songs on CD, this coverts faster!
+
+
 <img width="2465" height="2303" alt="PXL_20261013_105536155~2" src="https://github.com/user-attachments/assets/c4b5d5b2-64ce-43a5-9673-1286e0830314" />
 
 
